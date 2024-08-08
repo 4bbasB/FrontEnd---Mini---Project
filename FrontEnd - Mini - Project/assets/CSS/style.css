@@ -1,0 +1,174 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-fluid{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.navbar{
+  display: flex;
+  width: 1586px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.categoriesSearch{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    border: 0.5px solid #3BB77E;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+
+.categoriesSearch p{
+    margin-top: 10px;
+}
+
+.categoriesSearch input{
+    width: 30rem;
+}
+
+.foruser{
+    display: flex;
+    gap: 20px;
+}
+
+.foruser div{
+    display: flex;
+    gap: 5px;
+    height: 25px;
+}
+
+select{
+    border: none;
+}
+
+.selectcategory{
+    width: 250px;
+    height: 50px;
+    display: flex;
+    background-color: #3BB77E;
+    color: white;
+    border-radius: 7px;
+}
+
+.navbarbottom{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.pages{
+    display: flex;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+input{
+    border: none;
+}
+
+.navbarbottom{
+    display: flex;
+    justify-content: space-between;
+}
+
+.email button{
+    background-color: #3BB77E;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 20px 40px;
+}
+
+.email{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 400px;
+}
+
+.hero{
+    background-image: url("../imgs/slider-1.png");
+}
+
+.carousel-item {
+    height: 60vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+.carousel-caption {
+    bottom: 40%;
+}
+.carousel-caption h1, .carousel-caption h3 {
+    color: #333;
+}
+.carousel-caption input {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+.carousel-caption button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #28a745;
+    color: #fff;
+}
+.carousel-controls {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+}
+.carousel-controls span {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 50%;
+    cursor: pointer;
+}
+.carousel-controls .active {
+    background-color: #28a745;
+}
+
+.left-navbarbottom{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.navbarbottom{
+    margin-bottom: 10px;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.FeaturedCategories{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.list-inline .nav-link{
+    text-decoration: none;
+    color: black
+}

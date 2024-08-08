@@ -1,0 +1,74 @@
+{
+  "sliders": [
+    {
+      "id": "1",
+      "header": "Don’t miss amazing grocery deals",
+      "description": "Sign up for the daily newsletter",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/slider/slider-1.png"
+    },
+    {
+      "id": "2",
+      "header": "Fresh Vegetables Big discount",
+      "description": "Save up to 50% off on your first order",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/slider/slider-2.png"
+    },
+    {
+      "id": "3",
+      "header": "Hellooo",
+      "description": "hiiiiii",
+      "image": "adgasgasfgh"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Cake & Milk",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "2",
+      "name": "Coffes & Teas",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "3",
+      "name": "Pet Foods",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "4",
+      "name": "Vegetables",
+      "image": "./assets/imgs/produce.png"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Napoleon",
+      "price": "10.99",
+      "category": "Cake & Milk",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "2",
+      "name": "Napoleon",
+      "price": "10.99",
+      "category": "Cake & Milk",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "3",
+      "name": "Napoleon",
+      "price": "10.99",
+      "category": "Cake & Milk",
+      "image": "./assets/imgs/produce.png"
+    },
+    {
+      "id": "4",
+      "name": "Napoleon",
+      "price": "10.99",
+      "category": "Cake & Milk",
+      "image": "./assets/imgs/produce.png"
+    }
+  ]
+}
